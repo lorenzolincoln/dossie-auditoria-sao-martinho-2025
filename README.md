@@ -6,7 +6,9 @@ Dossiê de Auditoria Independente da São Martinho S.A. (P2 - Auditoria 1 UnB)
 **Disciplina:** Auditoria 1 (CCA0024 - Turma 02 - 2026.2) — Universidade de Brasília (UnB)  
 **Professor:** Lucas Oliveira Gomes Ferreira  
 **Auditor Responsável / Equipe Técnica:** Lorenzo Caetano Lincoln - 202015124 
+
 **Empresa Auditada:** São Martinho S.A. 
+
 **Normas Aplicadas:** Estrutura Conceitual para Relatório Financeiro e NBC TA (Séries 200 a 600).
 
 ---
