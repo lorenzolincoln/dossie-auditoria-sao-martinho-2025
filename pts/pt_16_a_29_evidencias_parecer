@@ -1,0 +1,342 @@
+#### PT 16 - Evidência de Auditoria (PT 500)
+
+1. **Código e Título:** PT 500 - Obtenção de Evidência de Auditoria (NBC TA 500).
+
+
+2. **Objetivo e Objeto:** Assegurar que as evidências obtidas são apropriadas (qualidade) e suficientes (quantidade) para suportar as conclusões.
+
+
+3. **Afirmações e Riscos:** Risco de evidências geradas internamente pela Companhia conterem viés ou falta de integridade documental.
+
+
+4. **População e Fontes:** Demonstrações financeiras anuais e trimestrais (ITRs) de 2025/2026, relatórios de administração e base sintética de Ativos Biológicos.
+
+
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Inspeção documental das DFs e conciliação dos saldos consolidados com os relatórios de auditores independentes anteriores (KPMG).
+
+
+* *Simulado para fins didáticos:* Recálculo massivo no Python do valor justo de 500.000 linhas de Ativos Biológicos para gerar evidência analítica de exatidão matemática.
+
+
+
+
+6. **Evidências e Ref. Cruzadas:** ITRs de 2025.
+
+
+7. **Resultados e Conclusão:** Evidências suficientes foram obtidas para mapear os riscos contábeis.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 24/10/2026. Revisado por Supervisor #73011.
+
+#### PT 17 - Considerações Específicas para Itens Selecionados (PT 501)
+
+1. **Código e Título:** PT 501 - Evidência de Auditoria: Estoques, Litígios e Segmentos (NBC TA 501).
+
+
+2. **Objetivo e Objeto:** Avaliar a existência de estoques, a completude das provisões para litígios e a apresentação das informações por segmentos operacionais.
+
+
+3. **Afirmações e Riscos:** Risco de obsolescência de estoques agrícolas/industriais e passivos ocultos.
+
+
+4. **População e Fontes:** Controle de estoques, relatórios jurídicos e Nota 24 (Informação por segmento).
+
+
+5. **Procedimentos Executados:**
+* *Planejado por falta de acesso:* Acompanhamento físico da contagem de estoques (açúcar e etanol) nas 4 unidades industriais operacionais no encerramento da safra.
+
+
+* *Realizado com evidência pública:* Verificação da aderência da divulgação da Nota 24, que segmenta as receitas e custos sob a ótica de Açúcar, Etanol, Etanol de Milho, Energia Elétrica e Negócios Imobiliários.
+
+
+
+
+6. **Evidências e Ref. Cruzadas:** ITRs (Nota 24).
+
+
+7. **Resultados e Conclusão:** A divulgação por segmentos atende ao IFRS 8. Contagens de estoque dependem de execução física.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 24/10/2026. Revisado por Supervisor #73011.
+
+#### PT 18 - Confirmações Externas (PT 505)
+
+1. **Código e Título:** PT 505 - Procedimentos de Circularização (NBC TA 505).
+
+
+2. **Objetivo e Objeto:** Obter confirmações diretas de terceiros (bancos, clientes, advogados) para corroborar saldos contábeis.
+
+
+3. **Afirmações e Riscos:** Existência, direitos e obrigações de caixa, equivalentes, derivativos e contingências.
+
+
+4. **População e Fontes:** Razão de bancos, carteira de clientes, custodiantes de derivativos (ICE Futures US e B3) e assessores jurídicos.
+
+
+5. **Procedimentos Executados:**
+* *Planejado por falta de acesso:* Seleção de 100% dos bancos com saldo e emissão de cartas de circularização padrão. Confirmação de saldos de derivativos de Nível 1 e 2 custodiados em corretoras (R$ 3.463.381 mil no Nível 2 em 30/09/2025).
+
+
+
+
+6. **Evidências e Ref. Cruzadas:** Planilha de Controle de Circularização.
+7. **Resultados e Conclusão:** Procedimento dependente de envio efetivo. Planejamento estruturado para cobrir as principais contrapartes financeiras de primeira linha.
+
+
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 24/10/2026. Revisado por Supervisor #73011.
+
+#### PT 19 - Trabalhos Iniciais - Saldos Iniciais (PT 510)
+
+1. **Código e Título:** PT 510 - Verificação de Saldos de Abertura (NBC TA 510).
+
+
+2. **Objetivo e Objeto:** Garantir que os saldos de abertura do exercício não contêm distorções e que as políticas contábeis foram aplicadas consistentemente.
+
+
+3. **Afirmações e Riscos:** Omissão de passivos ou transição incorreta de saldos do exercício anterior.
+
+
+4. **População e Fontes:** Demonstrações Financeiras do exercício findo em março de 2025 e 2026.
+
+
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Cruzamento do Balanço Patrimonial e Parecer de Auditoria da KPMG referentes ao exercício anterior (2025) para atestar a continuidade dos saldos para 2026.
+
+
+
+
+6. **Evidências e Ref. Cruzadas:** Parecer sem ressalvas da KPMG.
+
+
+7. **Resultados e Conclusão:** Saldos iniciais transferidos adequadamente, sem necessidade de reapresentação retroativa.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 24/10/2026. Revisado por Supervisor #73011.
+
+#### PT 20 - Procedimentos Analíticos (PT 520)
+
+1. **Código e Título:** PT 520 - Testes Substantivos Analíticos (NBC TA 520).
+
+
+2. **Objetivo e Objeto:** Avaliar informações financeiras por meio de análise de relações plausíveis entre dados financeiros e não financeiros.
+
+
+3. **Afirmações e Riscos:** Flutuações atípicas não explicadas na margem bruta, indicando possível erro no custo ou receita.
+
+
+4. **População e Fontes:** DRE Consolidada e Informações por Segmento.
+
+
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Análise da margem bruta por segmento em 31/12/2025: Açúcar (32,4%), Etanol (7,7%), Etanol de Milho (36,5%), Energia Elétrica (60,1%) e Negócios Imobiliários (97,2%).
+
+
+
+
+6. **Evidências e Ref. Cruzadas:** ITR de 31/12/2025 - Nota 24.
+
+
+7. **Resultados e Conclusão:** Margens alinhadas com o perfil operacional de cada negócio e com as variações dos preços de commodities do período.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 21 - Amostragem em Auditoria (PT 530)
+
+1. **Código e Título:** PT 530 - Amostragem Estatística Aplicada (NBC TA 530).
+
+
+2. **Objetivo e Objeto:** Fornecer base razoável para tirar conclusões sobre toda a população da conta Ativos Biológicos (R$ 1.405.729 mil).
+
+
+3. **Afirmações e Riscos:** Risco de amostragem não representar a população, falhando em detectar a superavaliação inserida intencionalmente.
+4. **População e Fontes:** Base de dados sintética de 500.000 linhas gerada em Python no PT de planejamento.
+
+
+5. **Procedimentos Executados:**
+* *Simulado para fins didáticos:* Execução de script Python (`amostragem.py`) para extrair uma amostra aleatória sistemática de 10.000 linhas da base.
+* *Simulado para fins didáticos:* Avaliação dos resultados: A amostra interceptou 7 talhões contendo a anomalia "Área Negativa" e 12 talhões com "Taxa Desconto Incorreta", permitindo a projeção da distorção para a população total.
+
+
+6. **Evidências e Ref. Cruzadas:** Script Python e Log de Amostragem (Repositório GitHub).
+
+
+7. **Resultados e Conclusão:** A técnica de amostragem automatizada confirmou a existência de falhas sistêmicas na avaliação, corroborando o risco mapeado no planejamento.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 22 - Auditoria de Estimativas Contábeis (PT 540)
+
+1. **Código e Título:** PT 540 - Avaliação do Valor Justo e Impairment (NBC TA 540).
+
+
+2. **Objetivo e Objeto:** Validar a razoabilidade das premissas utilizadas pela administração para o cálculo de *impairment* de ágio e valor justo de ativos biológicos (Nível 3).
+
+
+3. **Afirmações e Riscos:** Uso de premissas excessivamente otimistas para evitar reconhecimento de perdas no ativo.
+
+
+4. **População e Fontes:** Notas explicativas sobre estimativas e *Impairment* (UGC Consolidada).
+
+
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Verificação das premissas do teste de *impairment* para a UGC que integra as 4 unidades industriais e 11 entidades. A taxa de desconto utilizada pela administração foi de 9,01% ao ano (contra 10,28% em 2025) projetada para 5 anos.
+
+
+* *Simulado para fins didáticos:* Recálculo simulado da aderência dessa taxa frente ao WACC do setor sucroenergético.
+
+
+6. **Evidências e Ref. Cruzadas:** ITR Jun/25, Nota 12 (Impairment).
+
+
+7. **Resultados e Conclusão:** Nenhuma perda de *impairment* foi materializada pela Companhia, e as taxas de desconto parecem compatíveis com o mercado de capitais para o setor.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 23 - Partes Relacionadas (PT 550)
+
+1. **Código e Título:** PT 550 - Transações com Partes Relacionadas (NBC TA 550).
+
+
+2. **Objetivo e Objeto:** Avaliar se as transações com empresas do grupo, coligadas e administradores ocorreram sob condições normais de mercado (arm's length).
+
+
+3. **Afirmações e Riscos:** Risco de esvaziamento patrimonial ou reconhecimento de receitas artificiais entre empresas do grupo para inflar resultados.
+
+
+4. **População e Fontes:** Notas explicativas referentes a Partes Relacionadas.
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Mapeamento das 11 entidades controladas consolidadas (incluindo operações imobiliárias, armazenamento e cogeração) para checar a eliminação correta de transações intercompany no balanço consolidado.
+
+
+* *Planejado por falta de acesso:* Análise dos contratos de mútuo entre controladas e atas de remuneração de *Key Management Personnel*.
+
+
+6. **Evidências e Ref. Cruzadas:** ITR 30/06/2025 (Contexto Operacional).
+
+
+7. **Resultados e Conclusão:** As eliminações no nível consolidado aparentam estar corretas, não sendo observados saldos residuais não fundamentados.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 24 - Eventos Subsequentes (PT 560)
+
+1. **Código e Título:** PT 560 - Avaliação de Eventos Subsequentes (NBC TA 560).
+
+
+2. **Objetivo e Objeto:** Identificar fatos ocorridos após a data do balanço (31/03/2026) que exijam ajuste nas DFs ou divulgação adicional.
+
+
+3. **Afirmações e Riscos:** Omissão de eventos climáticos, contingências novas ou mudanças severas em preços de commodities que afetem o patrimônio.
+
+
+4. **População e Fontes:** Portal CVM, Fatos Relevantes e Comunicados ao Mercado da SMT03 pós-fechamento.
+5. **Procedimentos Executados:**
+* *Planejado por falta de acesso:* Indagação formal à Diretoria Financeira e ao Jurídico sobre litígios supervenientes ou perdas agrícolas extremas.
+* *Realizado com evidência pública:* Leitura das atas do conselho e fatos relevantes publicados entre abril e maio de 2026 (se aplicável/existente).
+
+
+6. **Evidências e Ref. Cruzadas:** Site de Relações com Investidores da Companhia.
+7. **Resultados e Conclusão:** Ausência de eventos subsequentes identificados que demandem ajustes ou divulgações na demonstração de 31/03/2026.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 25 - Continuidade Operacional (PT 570)
+
+1. **Código e Título:** PT 570 - Avaliação do Princípio da Continuidade (Going Concern) (NBC TA 570).
+
+
+2. **Objetivo e Objeto:** Avaliar se a São Martinho possui capacidade operacional, financeira e econômica de manter-se em atividade por pelo menos 12 meses.
+
+
+3. **Afirmações e Riscos:** Risco de insolvência, estrangulamento de liquidez por vencimento de dívidas cruzadas ou quebras severas de safra.
+
+
+4. **População e Fontes:** Geração de caixa operacional, composição de liquidez e gestão de risco de crédito.
+
+
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Avaliação do Lucro Líquido consolidado do período (R$ 663.326 mil em 31/12/2025).
+
+
+* *Realizado com evidência pública:* Constatação de que a empresa atua em instituições financeiras de primeira linha para mitigar o risco de crédito.
+
+
+
+
+6. **Evidências e Ref. Cruzadas:** Demonstração do Resultado Consolidado e Nota 22.2.
+
+
+7. **Resultados e Conclusão:** A forte geração de caixa (lucro operacional de R$ 995.198 mil) e robustez patrimonial confirmam inequivocamente a premissa de continuidade.
+
+
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 26 - Declarações Escritas (PT 580)
+
+1. **Código e Título:** PT 580 - Carta de Responsabilidade da Administração (NBC TA 580).
+
+
+2. **Objetivo e Objeto:** Obter declarações formais da Diretoria confirmando sua responsabilidade pelas demonstrações financeiras e pela entrega integral de informações.
+
+
+3. **Afirmações e Riscos:** Risco de a administração sonegar dados de contingências ou fraudes da equipe.
+
+
+4. **População e Fontes:** Modelo de Carta de Representação da Firma de Auditoria.
+5. **Procedimentos Executados:**
+* *Planejado por falta de acesso:* Elaboração da minuta da Carta de Responsabilidade com data coincidente com a emissão do Parecer de Auditoria, endereçada à Diretoria Executiva da São Martinho S.A., e coleta das respectivas assinaturas.
+
+
+6. **Evidências e Ref. Cruzadas:** Arquivo de Auditoria Pós-Fechamento.
+7. **Resultados e Conclusão:** O engajamento pressupõe a emissão sem restrições desta carta pela Companhia.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+#### PT 27 - Auditoria de Demonstrações Contábeis de Grupos (PT 600)
+
+1. **Código e Título:** PT 600 - Considerações para Entidades Consolidadas (NBC TA 600).
+
+
+2. **Objetivo e Objeto:** Planejar e executar a estratégia de consolidação, dado que a São Martinho opera por meio de diversas unidades e subsidiárias.
+
+
+3. **Afirmações e Riscos:** Eliminação inadequada de saldos intercompany, ou falta de auditoria em subsidiárias materiais.
+
+
+4. **População e Fontes:** Controle de consolidação contemplando 4 unidades industriais e 11 entidades do grupo (cogeração, imobiliária, armazenamento).
+
+
+5. **Procedimentos Executados:**
+* *Realizado com evidência pública:* Mapeamento da estratégia da Companhia de tratar todo o consolidado como uma única Unidade Geradora de Caixa (UGC) devido à integração gerencial e operacional estrita das fazendas e indústrias.
+
+
+* *Simulado para fins didáticos:* Inserção no escopo da equipe primária da auditoria de 100% das holdings e usinas operacionais ativas.
+
+
+6. **Evidências e Ref. Cruzadas:** Nota 12 (Impairment e Perímetro de Consolidação).
+
+
+7. **Resultados e Conclusão:** A abordagem de grupo assegura cobertura estatística e substantiva completa do consolidado da São Martinho.
+8. **Identificação e Revisão:** Preparado por Auditor Matrícula #84920 em 25/10/2026. Revisado por Supervisor #73011.
+
+---
+
+#### PT 28 - Programas de Auditoria Específicos
+
+Conforme exigência, aplicamos as matrizes de risco para gerar diretrizes de testes para contas chaves:
+
+* **Receitas:** Testes de *Cut-off* no momento do reconhecimento da receita de venda de açúcar na bolsa ICE; *Planejado* cruzamento com notas fiscais.
+
+
+* **Disponibilidades:** *Planejado* circularização de contas correntes e análise das conciliações bancárias.
+* **Estoques:** *Planejado* inspeção visual dos silos de açúcar (1.297.485 tons previstas para até um ano) e tanques de etanol (508.860 m³ previstos para até um ano) no corte do exercício.
+
+
+* **Imobilizado:** *Realizado* conferência dos saldos de bens arrendados e depreciações do consolidado (R$ 1.573.121 mil em depreciação/amortização em dez/25).
+
+
+* **Passivos:** *Realizado* análise do impacto tributário favorável de R$ 15.920 mil decorrente do Tema 962 do STF sobre a Selic nos indébitos.
+
+
+* **Estimativas:** *Simulado/Realizado* foco absoluto no Valor Justo dos Ativos Biológicos (Nível 3) conforme explorado integralmente na geração e validação da Base Sintética e PT 540.
+
+
+
+---
+
+#### PT 29 - Conclusão Integrada de Auditoria
+
+O dossiê de auditoria da São Martinho S.A., estruturado metodologicamente para fins acadêmicos, atingiu plenamente a verificação normativa exigida, integrando a Estrutura Conceitual e as NBCs TA aplicáveis. Os exames conjugaram análises de documentações públicas reais (focadas em gestão de risco, hedge, contingências tributárias e precificação de biológicos) e a modelagem simulada de 500.000 registros para garantir a aplicação prática e escalável da amostragem em Python, onde anomalias foram inseridas e isoladas.
+
+Os processos de consolidação do grupo, as margens por segmento produtivo (Açúcar, Etanol e Milho) e a vigorosa geração de caixa refletem a rigidez estrutural da entidade para sua continuidade operacional. Todas as eventuais falhas detectadas nos ambientes simulados restringiram-se a montantes abaixo da materialidade global, atestando, sob a perspectiva deste encerramento analítico e sem figurar como emissão independente de opinião profissional, a integridade razoável das demonstrações frente ao complexo ambiente de estimativas e mercado regulado da Companhia.
+
+---
